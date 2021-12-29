@@ -1,1 +1,2 @@
-# Room_Temperature_Stabilizer
+Room Temperature Stabilizer
+Purpose: Keeping the room temperature at the ideal level.
